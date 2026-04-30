@@ -26,5 +26,5 @@ if valor >= 12.00:
     print(f"Com {valor} seriam possíveis comprar: {bil_10:.0f} bilhetes únicos e de troca seria {bil_10_troco:.2f}")
 
 
-
+    
 
